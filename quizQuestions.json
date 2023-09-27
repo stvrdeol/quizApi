@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Venus", "Jupiter"],
+      "answer": "Mars"
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "options": ["4", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "question": "What is the largest mammal on Earth?",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "answer": "Blue Whale"
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Venus", "Jupiter"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Which element has the chemical symbol 'H'?",
+      "options": ["Hydrogen", "Helium", "Oxygen", "Nitrogen"],
+      "answer": "Hydrogen"
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "Korea", "Japan", "Vietnam"],
+      "answer": "Japan"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": [
+        "Charles Dickens",
+        "Jane Austen",
+        "William Shakespeare",
+        "Mark Twain"
+      ],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": ["Heart", "Brain", "Liver", "Skin"],
+      "answer": "Skin"
+    },
+    {
+      "question": "Which gas is responsible for the Earth's ozone layer?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Ozone"],
+      "answer": "Ozone"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Michelangelo"
+      ],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
+      "answer": "Au"
+    },
+    {
+      "question": "Which planet is known as the Morning Star or Evening Star?",
+      "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+      "answer": "Venus"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
+      ],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "Who is the author of 'Harry Potter' series?",
+      "options": [
+        "J.R.R. Tolkien",
+        "George R.R. Martin",
+        "J.K. Rowling",
+        "C.S. Lewis"
+      ],
+      "answer": "J.K. Rowling"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": [
+        "Mitochondria",
+        "Nucleus",
+        "Endoplasmic Reticulum",
+        "Golgi Apparatus"
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "question": "Which gas is known as laughing gas?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrous Oxide", "Hydrogen"],
+      "answer": "Nitrous Oxide"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "answer": "2"
+    },
+    {
+      "question": "Which animal is known as the 'Ship of the Desert'?",
+      "options": ["Elephant", "Horse", "Camel", "Lion"],
+      "answer": "Camel"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "CO2", "O2", "N2"],
+      "answer": "H2O"
+    },
+    {
+      "question": "Who wrote the play 'Hamlet'?",
+      "options": [
+        "Charles Dickens",
+        "Jane Austen",
+        "William Shakespeare",
+        "Mark Twain"
+      ],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "Which gas do plants release during photosynthesis?",
+      "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Venus", "Jupiter"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Which element has the chemical symbol 'H'?",
+      "options": ["Hydrogen", "Helium", "Oxygen", "Nitrogen"],
+      "answer": "Hydrogen"
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "Korea", "Japan", "Vietnam"],
+      "answer": "Japan"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": [
+        "Charles Dickens",
+        "Jane Austen",
+        "William Shakespeare",
+        "Mark Twain"
+      ],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": ["Heart", "Brain", "Liver", "Skin"],
+      "answer": "Skin"
+    },
+    {
+      "question": "Which gas is responsible for the Earth's ozone layer?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Ozone"],
+      "answer": "Ozone"
+    }
+  ]
+}
